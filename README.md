@@ -1,3 +1,7 @@
+
+<h1 align="center">Hi 👋, I'm Sourish Ghosh</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
 # 💫 About Me:
 🌱 I’m currently learning NodeJS<br><br>⚡ Get my socials [here]{yet to be added}<br><br>💬 Ask me about front-end web dev<br><br>📫 How to reach me sghosh.ile.7@gmail.com<br><br>🎸 Fun fact I have defeated Isshin and Malenia
 
