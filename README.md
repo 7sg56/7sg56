@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 # 💫 About Me:
-- 🌱 I’m currently learning mongoosejs & routing
+- 🌱 I’m currently learning react
 - ⚡ Get my socials [here]{yet to be added}
 - 💬 Ask me about front-end web dev
 - 📫 How to reach me sghosh.ile.7@gmail.com
