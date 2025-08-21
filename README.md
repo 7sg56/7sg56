@@ -2,7 +2,12 @@
 
 
 
-[![Banner-MyLinks](https://banner-mylinks.vercel.app/)](https://your-link-here.com)
+
+<div align="center">
+	<a href="https://your-link-here.com" target="_blank">
+		<img src="assets/mylinks.gif" alt="Website Preview" style="max-width: 100%;" />
+	</a>
+</div>
 
 
 <br />
