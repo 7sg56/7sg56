@@ -1,43 +1,49 @@
 
+
 <div align="center">
 	<img src="assets/mylinks.gif" alt="mylinks gif" />
 </div>
 
----
+<h1 align="center">Hi, I am Sourish Ghosh</h1>
 
+<br/>
 
-## Rapidfire  
+- 🔭 I’m currently working on [My Portfolio](https://github.com/7sg56/my-portfolio)
+- 🌱 I’m currently learning React & Auth
+- ❓ Ask me about anything related to MERN stack
+- ⚡ Fun fact: I am a huge cat lover
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/7sg56/my-portfolio)  
-- 🌱 I’m currently learning React & Auth  
-- ❓ Ask me about anything related to MERN stack  
-- ⚡ Fun fact: I am a huge cat lover  
+<br/>
 
-<br/>  
+<details>
+	<summary><b>🛠️ Tech Stack</b></summary>
+	<div align="center">
+		<!-- Group 1: Core Web -->
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="30" style="margin: 10px; background: #fff; border-radius: 6px; padding: 2px;" />
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="30" style="margin: 10px; background: #fff; border-radius: 6px; padding: 2px;" />
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="30" style="margin: 10px; background: #fff; border-radius: 6px; padding: 2px;" />
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="30" style="margin: 10px; background: #fff; border-radius: 6px; padding: 2px;" />
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="30" style="margin: 10px; background: #fff; border-radius: 6px; padding: 2px;" />
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" height="30" style="margin: 10px; background: #fff; border-radius: 6px; padding: 2px;" />
+		<!-- Group 2: Backend & DB -->
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="30" style="margin: 10px; background: #fff; border-radius: 6px; padding: 2px;" />
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" height="30" style="margin: 10px; background: #fff; border-radius: 6px; padding: 2px;" />
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="30" style="margin: 10px; background: #fff; border-radius: 6px; padding: 2px;" />
+		<!-- Group 3: Other Languages -->
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="30" style="margin: 10px; background: #fff; border-radius: 6px; padding: 2px;" />
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="30" style="margin: 10px; background: #fff; border-radius: 6px; padding: 2px;" />
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="30" style="margin: 10px; background: #fff; border-radius: 6px; padding: 2px;" />
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="30" style="margin: 10px; background: #fff; border-radius: 6px; padding: 2px;" />
+		<!-- Group 4: Tools & OS -->
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="30" style="margin: 10px; background: #fff; border-radius: 6px; padding: 2px;" />
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="30" style="margin: 10px; background: #fff; border-radius: 6px; padding: 2px;" />
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="30" style="margin: 10px; background: #fff; border-radius: 6px; padding: 2px;" />
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" height="30" style="margin: 10px; background: #fff; border-radius: 6px; padding: 2px;" />
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" height="30" style="margin: 10px; background: #fff; border-radius: 6px; padding: 2px;" />
+	</div>
+</details>
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
-</div>  
-
-<br/>  
+<br/>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
