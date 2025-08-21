@@ -1,8 +1,10 @@
 
 
+
 <div align="center">
-	[![Bannner-MyLinks](banner-mylinks.vercel.app
-)](to be added)
+	<a href="https://your-link-here.com" target="_blank">
+		<img src="https://banner-mylinks.vercel.app/" alt="Banner MyLinks" style="max-width: 100%;" />
+	</a>
 </div>
 
 <br />
