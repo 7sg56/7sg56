@@ -1,21 +1,10 @@
-## Hey, I'm Sourish Ghosh  
-<a href="https://github.com/7sg56" target="_blank"> 
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /> 
-</a> 
-<a href="https://twitter.com/sourishghosh777" target="_blank"> 
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /> 
-</a> 
-<a href="https://linkedin.com/in/7sg56" target="_blank"> 
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /> 
-</a> 
-<a href="https://instagram.com/s0urishg" target="_blank"> 
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /> 
-</a>  
 
-### Glad to see you here!  
-I’m Sourish, a MERN stack developer passionate about building scalable and user-friendly web applications. My current stack includes JavaScript, React, Node.js, Express.js, and MongoDB, and I’m actively working on projects to strengthen my skills. Alongside full-stack development, I’m practicing Data Structures and Algorithms in C++ to enhance my problem-solving abilities. With additional experience in C, C++, Java, Python, and Bash, I’m open to contributing to projects, internships, and collaborations that drive impactful solutions.  
+<div align="center">
+	<img src="assets/mylinks.gif" alt="mylinks gif" />
+</div>
 
-<br/>  
+---
+
 
 ## Rapidfire  
 
