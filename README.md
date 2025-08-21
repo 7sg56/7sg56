@@ -5,7 +5,7 @@
 
 <div align="center">
 	<a href="https://your-link-here.com" target="_blank">
-		<img src="assets/mylinks.gif" alt="Website Preview" style="max-width: 100%;" />
+		<img src="assets/mylinks.gif" alt="banner my-Links" style="max-width: 100%;" />
 	</a>
 </div>
 
