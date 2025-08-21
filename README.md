@@ -1,11 +1,9 @@
 
 
 
-<div align="center">
-	<a href="https://your-link-here.com" target="_blank">
-		<img src="https://banner-mylinks.vercel.app/" alt="Banner MyLinks" style="max-width: 100%;" />
-	</a>
-</div>
+
+[![Banner-MyLinks](https://banner-mylinks.vercel.app/)](https://your-link-here.com)
+
 
 <br />
 
