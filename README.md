@@ -18,20 +18,11 @@ I’m Sourish, a MERN stack developer passionate about building scalable and use
 <br/>  
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/7sg56/my-portfolio)  
 - 🌱 I’m currently learning React & Auth  
 - ❓ Ask me about anything related to MERN stack  
 - ⚡ Fun fact: I am a huge cat lover  
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-
-</td></tr></table>  
 
 <br/>  
 
