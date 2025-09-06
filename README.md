@@ -40,13 +40,25 @@
 
 <br />
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=7sg56&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=7sg56&theme=dark&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7sg56&layout=donut&theme=dark&hide_border)]
 
-<br/>  
+# 📊 GitHub Stats:
+<div align="center">
+	<table>
+		<tr>
+			<td align="center" valign="top">
+				<img src="https://github-readme-stats.vercel.app/api?username=7sg56&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+				<br/>
+				<img src="https://nirzak-streak-stats.vercel.app/?user=7sg56&theme=dark&hide_border=false" alt="GitHub Streak"/>
+			</td>
+			<td align="center" valign="top">
+				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7sg56&layout=donut&theme=dark&hide_border" alt="Top Langs"/>
+			</td>
+		</tr>
+	</table>
+</div>
+
+<br/>
 
 [![Sourish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=7sg56&theme=react-dark)]
 
-----  
+----
