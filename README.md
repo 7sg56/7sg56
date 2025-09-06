@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **SQL databases**
 
-- 👨‍💻 All of my projects are available at [to be added](to be added)
+- 👨‍💻 All of my projects are available at [not-in-production](https://github.com/7sg56/my-portfolio)
 
 - 💬 Ask me about **MERN Stack**
 
@@ -46,5 +46,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=7sg56&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br/>  
+
+[![Sourish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=7sg56&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ----  
