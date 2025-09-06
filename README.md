@@ -7,7 +7,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Sourish Ghosh</h1>
-<h3 align="center">A developer from India</h3>
 <h2 align="center" style="font-weight: bold; color: #6C63FF;">Creating the Unimaginable</h2>
 
 
