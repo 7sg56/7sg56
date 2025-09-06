@@ -6,8 +6,8 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Sourish Ghosh</h1>
-<h2 align="center" style="font-weight: bold; color: #6C63FF;">Creating the Unimaginable</h2>
+<h1 align="center" style="border-bottom: none; margin-bottom: 0;">Hi 👋, I'm Sourish Ghosh</h1>
+<h2 align="center" style="font-weight: bold; color: #6C63FF; border-bottom: none; margin-top: 0;">Creating the Unimaginable</h2>
 
 
 ## 🚀 About Me
