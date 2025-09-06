@@ -59,6 +59,6 @@
 
 <br/>
 
-[![Sourish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=7sg56&theme=react-dark)]
+![Sourish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=7sg56&theme=react-dark)
 
 ----
