@@ -1,7 +1,7 @@
 
 <div align="center">
 	<a href="https://7sg56-my-links.vercel.app/" target="_blank">
-		<img src="assets/mylinks.webp" alt="banner my-Links" style="max-width: 100%;" />
+		<img src="assets/mylinks.gif" alt="banner my-Links" style="max-width: 100%;" />
 	</a>
 </div>
 
