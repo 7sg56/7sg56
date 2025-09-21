@@ -11,9 +11,9 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on [My Portfolio](https://github.com/7sg56/my-portfolio)
+- 🔭 I'm currently working on a [personal project]()
 - 🌱 I'm currently learning **SQL databases**
-- 👨‍💻 All of my projects are available at [not-in-production](https://github.com/7sg56/my-portfolio)
+- 👨‍💻 All of my projects are available at [testing-phase](https://sourish-ghosh.vercel.app)
 - 💬 Ask me about **MERN Stack**
 - 📫 How to reach me **sghosh.ile.7@gmail.com**
 - ⚡ Fun fact **Cats are my weak spot, I love them**
