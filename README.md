@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 - 🔭 I'm currently working on a [personal project]()
-- 🌱 I'm currently learning **SQL databases**
+- 🌱 I'm currently exploring **AstroJss**
 - 👨‍💻 All of my projects are available at [testing-phase](https://sourish-ghosh.vercel.app)
 - 💬 Ask me about **MERN Stack**
 - 📫 How to reach me **sghosh.ile.7@gmail.com**
