@@ -1,6 +1,6 @@
 
 <div align="center">
-	<a href="https://7sg56-my-links.vercel.app/" target="_blank">
+	<a href="https://sourish-ghosh.vercel.app/" target="_blank">
 		<img src="assets/mylinks.gif" alt="banner my-Links" style="max-width: 100%;" />
 	</a>
 </div>
@@ -11,9 +11,9 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on a [personal project]()
+- 🔭 I'm currently working on  [DawnMark](https://github.com/7sg56/DawnMark)
 - 🌱 I'm currently exploring **AstroJss**
-- 👨‍💻 All of my projects are available at [testing-phase](https://sourish-ghosh.vercel.app)
+- 👨‍💻 All of my projects are available at [my-portfolio](https://sourish-ghosh.vercel.app)
 - 💬 Ask me about **MERN Stack**
 - 📫 How to reach me **sghosh.ile.7@gmail.com**
 - ⚡ Fun fact **Cats are my weak spot, I love them**
