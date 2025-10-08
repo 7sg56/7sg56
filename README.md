@@ -6,13 +6,14 @@
 </div>
 
 
+
 <h1 align="center" style="border-bottom: none; margin-bottom: 0;">Hi 👋, I'm Sourish Ghosh</h1>
 
 
 ## 🚀 About Me
 
 - 🔭 I'm currently working on  [DawnMark](https://github.com/7sg56/DawnMark)
-- 🌱 I'm currently exploring **AstroJss**
+- 🌱 I'm currently exploring **AstroJs**
 - 👨‍💻 All of my projects are available at [my-portfolio](https://sourish-ghosh.vercel.app)
 - 💬 Ask me about **MERN Stack**
 - 📫 How to reach me **sghosh.ile.7@gmail.com**
@@ -40,22 +41,20 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=7sg56&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-        <br/>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=7sg56&theme=dark&hide_border=false" alt="GitHub Streak"/>
-      </td>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7sg56&layout=donut&theme=dark&hide_border" alt="Top Langs"/>
-      </td>
-    </tr>
-  </table>
-</div>
+
+## Stats of Obsession 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7sg56&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7sg56&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7sg56&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=7sg56&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=7sg56&theme=aura&utcOffset=8)
+
+<hr>
 
 ![Sourish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=7sg56&theme=react-dark)
 
+<hr>
+
+![](https://github-profile-trophy.vercel.app/?username=7sg56&theme=onedark&column=-1)
 ---
