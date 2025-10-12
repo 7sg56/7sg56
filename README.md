@@ -10,7 +10,7 @@
 
 <h3 align="center" style="border-bottom: none; margin: 10px 0;">Hi, I'm Sourish</h3>
 
-<table>
+<table align="center">
   <tr>
     <td>
       <h3 align="center">
