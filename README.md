@@ -4,11 +4,12 @@
   <img 
     src="https://7sg56.github.io/7sg56/assets/Sourish Ghosh-3.gif" 
     alt="Sourish Ghosh animation" 
-    style="width: 400px; height: auto;" 
+    style="width: 800px; height: auto;" 
   />
 </div>
 
-<h1 align="center" style="border-bottom: none; margin-bottom: 0;">Hi, 7sg56 is my alias, I'm a Software Engineer & Web Developer</h1>
+<h1 align="center" style="border-bottom: none; margin-bottom: 0;">Hi 👋, I'm Sourish Ghosh</h1>
+<h3 align="center" style="border-bottom: none; margin: 10px 0;">Software Engineer & Web Developer</h3>
 
 ## 🚀 About Me
 
