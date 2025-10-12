@@ -10,7 +10,7 @@
 
 <h3 align="center" style="border-bottom: none; margin: 10px 0;">Hi, I'm Sourish</h3>
 
-<table align="center" style="width: 100%; min-width: 600px;">
+<table align="center" style="width: 100%; min-width: 600px; border: none; border-collapse: collapse;">
   <tr>
     <td>
       <h3 align="center">
