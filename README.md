@@ -42,7 +42,14 @@
   </tr>
 </table>
 
----
+
+<div align="center" style="padding: 30px">
+
+![Sourish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=7sg56&theme=github-compact&hide_border=true)
+
+</div>
+
+<hr>
 
 ## Table of Tech
 
@@ -131,13 +138,6 @@
 
 <hr>
 
-<div align="center">
-
-![Sourish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=7sg56&theme=react-dark)
-
-</div>
-
-<hr>
 
 <div align="center">
 
@@ -152,4 +152,5 @@
 [![](https://holopin.me/7sg56)](https://holopin.io/@7sg56)
 
 </div>
+
 ---
