@@ -1,15 +1,19 @@
 
 <div align="center">
-  <a href="https://sourish-ghosh.vercel.app/" target="_blank">
+  <div style="
+    background: black;
+    padding: 30px;
+    margin: 20px 0;
+    position: relative;
+    border-radius: 15px;
+  ">
     <img 
-      src="https://7sg56.github.io/7sg56/assets/mylinks.gif" 
-      alt="banner portfolio" 
-      style="max-width: 100%; display: block;" 
+      src="https://7sg56.github.io/7sg56/assets/Sourish Ghosh-3.gif" 
+      alt="Sourish animation" 
+      style="position: absolute; bottom: 10px; left: 20px; width: 100px; height: auto;" 
     />
-  </a>
+  </div>
 </div>
-
-
 
 <h1 align="center" style="border-bottom: none; margin-bottom: 0;">Hi 👋, I'm Sourish Ghosh</h1>
 
