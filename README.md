@@ -1,7 +1,7 @@
 
 <div align="center">
 	<a href="https://sourish-ghosh.vercel.app/" target="_blank">
-		<img src="assets/mylinks.gif" alt="banner my-Links" style="max-width: 100%;" />
+		<img src=" https://7sg56.github.io/7sg56/assets/mylinks.gif" alt="banner portfolio" style="max-width: 100%;" />
 	</a>
 </div>
 
