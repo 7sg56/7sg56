@@ -8,17 +8,41 @@
   />
 </div>
 
-<h1 align="center" style="border-bottom: none; margin-bottom: 0;">Hi 👋, I'm Sourish Ghosh</h1>
 <h3 align="center" style="border-bottom: none; margin: 10px 0;">Software Engineer & Web Developer</h3>
 
-## 🚀 About Me
-
-- 🔭 I'm currently working on  [DawnMark](https://github.com/7sg56/DawnMark)
-- 🌱 I'm currently exploring **AstroJs**
-- 👨‍💻 All of my projects are available at [my-portfolio](https://sourish-ghosh.vercel.app)
-- 💬 Ask me about **MERN Stack**
-- 📫 How to reach me **sghosh.ile.7@gmail.com**
-- ⚡ Fun fact **Cats are my weak spot, I love them**
+<table>
+  <tr>
+    <td>
+      <h3 align="center">
+        Passionate <strong>Software Engineer</strong> and <strong>Web Developer</strong>.
+        <br>
+        <em>Creating the unimaginable</em>
+        <br>
+        <hr>
+      </h3>
+      <h4>About</h4>
+      <ul style="list-style: none; padding-left: 0;">
+        <li>🔭 Currently working on <strong><a href="https://github.com/7sg56/DawnMark">DawnMark</a></strong> - A powerful markdown editor</li>
+        <li>🌱 Exploring <strong>p5js</strong> for creating art on the web</li>
+        <li>👨‍💻 Building full-stack applications with <strong>MERN Stack</strong></li>
+        <li>🚀 Deploying applications on <strong>Vercel</strong>, <strong>Netlify</strong>, and <strong>Render</strong></li>
+      </ul>
+      
+      <h4>Contact</h4>
+      <ul style="list-style: none; padding-left: 0;">
+        <li>📫 <strong>Email</strong>: sghosh.ile.7@gmail.com</li>
+        <li>🌐 <strong>Portfolio</strong>: <a href="https://sourish-ghosh.vercel.app">sourish-ghosh.vercel.app</a></li>
+        <li>💡 <strong>Ask me about</strong>: Web Development, MERN Stack, or anything tech!</li>
+      </ul>
+      
+      <h4>Hobbies</h4>
+      <ul style="list-style: none; padding-left: 0;">
+        <li>🐱 Cats are my weak spot - I absolutely love them!</li>
+        <li>🎮 Soulsborne Fan - I have plat on ds3 & elden ring</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
