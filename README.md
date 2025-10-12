@@ -4,13 +4,12 @@
     background: black;
     padding: 30px;
     margin: 20px 0;
-    position: relative;
     border-radius: 15px;
   ">
     <img 
       src="https://7sg56.github.io/7sg56/assets/Sourish Ghosh-3.gif" 
       alt="Sourish animation" 
-      style="position: absolute; bottom: 10px; left: 20px; width: 100px; height: auto;" 
+      style="width: 400px; height: auto;" 
     />
   </div>
 </div>
