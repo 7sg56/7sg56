@@ -8,13 +8,13 @@
   />
 </div>
 
-<h3 align="center" style="border-bottom: none; margin: 10px 0;">Software Engineer & Web Developer</h3>
+<h3 align="center" style="border-bottom: none; margin: 10px 0;">Hi, I'm Sourish</h3>
 
 <table>
   <tr>
     <td>
       <h3 align="center">
-        Passionate <strong>Software Engineer</strong> and <strong>Web Developer</strong>.
+        Passionate <strong>Software Engineer</strong> and <strong>Web Developer</strong>
         <br>
         <em>Creating the unimaginable</em>
         <br>
@@ -27,14 +27,12 @@
         <li>👨‍💻 Building full-stack applications with <strong>MERN Stack</strong></li>
         <li>🚀 Deploying applications on <strong>Vercel</strong>, <strong>Netlify</strong>, and <strong>Render</strong></li>
       </ul>
-      
       <h4>Contact</h4>
       <ul style="list-style: none; padding-left: 0;">
         <li>📫 <strong>Email</strong>: sghosh.ile.7@gmail.com</li>
         <li>🌐 <strong>Portfolio</strong>: <a href="https://sourish-ghosh.vercel.app">sourish-ghosh.vercel.app</a></li>
         <li>💡 <strong>Ask me about</strong>: Web Development, MERN Stack, or anything tech!</li>
       </ul>
-      
       <h4>Hobbies</h4>
       <ul style="list-style: none; padding-left: 0;">
         <li>🐱 Cats are my weak spot - I absolutely love them!</li>
