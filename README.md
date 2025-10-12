@@ -21,7 +21,7 @@
 
 ---
 
-## Tech Stack
+## Table of Tech
 
 | Frontend | Backend |
 |---------------------|-------------------|
