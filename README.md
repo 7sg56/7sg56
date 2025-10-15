@@ -35,8 +35,9 @@
       </ul>
       <h4>Hobbies</h4>
       <ul style="list-style: none; padding-left: 0;">
-        <li>🐱 Cats are my weak spot - I absolutely love them!</li>
         <li>🎮 Soulsborne Fan - I have plat on ds3 & elden ring</li>
+        <li>🐱 Cats are my weak spot - I absolutely love them!</li>
+        <li>♟️ Chess Enthusiat - 1100 ELO and climbing</li>
       </ul>
     </td>
   </tr>
