@@ -142,7 +142,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=7sg56&theme=onedark&column=-1)
+![](https://github-trophies.vercel.app/?username=7sg56&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
