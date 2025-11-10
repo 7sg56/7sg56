@@ -22,7 +22,7 @@
       </h3>
       <h4>About</h4>
       <ul style="list-style: none; padding-left: 0;">
-        <li>🔭 Currently working on <strong><a href="https://github.com/7sg56/ColdUML">ColdUML</a></strong> - A code 2 diagram generator</li>
+        <li>🔭 Currently working on <strong><a href="https://github.com/7sg56/clipStack">clipStack</a></strong> - a chrome extension to manage your clipboard</li>
         <li>🌱 Exploring <strong>p5js</strong> for creating art on the web</li>
         <li>👨‍💻 Building full-stack applications with <strong>MERN Stack</strong></li>
         <li>🚀 Deploying applications on <strong>Vercel</strong>, <strong>Netlify</strong>, and <strong>Render</strong></li>
