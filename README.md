@@ -8,13 +8,10 @@
   />
 </div>
 
-<h3 align="center" style="border-bottom: none; margin: 10px 0;">Hi, I'm Sourish</h3>
-
 <table align="center" style="width: 100%; min-width: 600px; border: none; border-collapse: collapse;">
   <tr>
     <td>
       <h3 align="center">
-        Passionate <strong>Software Engineer</strong> and <strong>Web Developer</strong>
         <br>
         <em>Creating the unimaginable</em>
         <br>
@@ -22,10 +19,9 @@
       </h3>
       <h4>About</h4>
       <ul style="list-style: none; padding-left: 0;">
-        <li>🔭 Currently working on <strong><a href="https://github.com/7sg56/clipStack">clipStack</a></strong> - a chrome extension to manage your clipboard</li>
-        <li>🌱 Exploring <strong>p5js</strong> for creating art on the web</li>
-        <li>👨‍💻 Building full-stack applications with <strong>MERN Stack</strong></li>
-        <li>🚀 Deploying applications on <strong>Vercel</strong>, <strong>Netlify</strong>, and <strong>Render</strong></li>
+        <li> Currently working on <strong><a href="https://github.com/7sg56/clipStack">clipStack</a></strong> - a chrome extension to manage your clipboard</li>
+        <li> Exploring <strong>p5js</strong> for creating art on the web</li>
+        <li> Building full-stack applications with <strong>MERN Stack</strong></li>
       </ul>
       <h4>Contact</h4>
       <ul style="list-style: none; padding-left: 0;">
@@ -33,11 +29,11 @@
         <li>🌐 <strong>Portfolio</strong>: <a href="https://sourish-ghosh.vercel.app">sourish-ghosh.vercel.app</a></li>
         <li>💡 <strong>Ask me about</strong>: Web Development, MERN Stack, or anything tech!</li>
       </ul>
-      <h4>Hobbies</h4>
+      <h4>Extras</h4>
       <ul style="list-style: none; padding-left: 0;">
-        <li>🎮 Soulsborne Fan - I have plat on ds3 & elden ring</li>
-        <li>🐱 Cats are my weak spot - I absolutely love them!</li>
-        <li>♟️ Chess Enthusiat - 1100 ELO and climbing</li>
+        <li> Soulsborne Fan - I have plat on ds3 & elden ring</li>
+        <li> Cats are my weak spot - I absolutely love them!</li>
+        <li> Chess Enthusiat - 1200 ELO</li>
       </ul>
     </td>
   </tr>
@@ -139,12 +135,15 @@
 
 <hr>
 
+## Trophies
 
 <div align="center">
 
 ![](https://github-trophies.vercel.app/?username=7sg56&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
+
+## HacktoberFest
 
 <hr>
 
