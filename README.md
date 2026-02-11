@@ -8,8 +8,6 @@
   />
 </div>
 
-<h3 align="center" style="border-bottom: none; margin: 10px 0;">Hi, I'm Sourish</h3>
-
 <table align="center" style="width: 100%; min-width: 600px; border: none; border-collapse: collapse;">
   <tr>
     <td>
@@ -51,7 +49,7 @@
 
 <hr>
 
-<h3 align="center">Technologies</h3>
+<h3 align="left">Table of Tech</h3>
 
 <table align="center">
   <tr>
@@ -62,56 +60,52 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/Tech-SVG/Python.svg" width="40" height="40" alt="Python" style="margin: 5px;" />
-      <img src="assets/Tech-SVG/Java.svg" width="40" height="40" alt="Java" style="margin: 5px;" />
-      <img src="assets/Tech-SVG/C++-(CPlusPlus).svg" width="40" height="40" alt="C++" style="margin: 5px;" />
-      <br/>
-      <img src="assets/Tech-SVG/TypeScript.svg" width="40" height="40" alt="TypeScript" style="margin: 5px;" />
-      <img src="assets/Tech-SVG/JavaScript.svg" width="40" height="40" alt="JavaScript" style="margin: 5px;" />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cpp,python,ts,rust" />
+      </a>
     </td>
     <td align="center">
-      <img src="assets/Tech-SVG/React.svg" width="40" height="40" alt="React" style="margin: 5px;" />
-      <img src="assets/Tech-SVG/Next.js.svg" width="40" height="40" alt="Next.js" style="margin: 5px;" />
-      <br/>
-      <img src="assets/Tech-SVG/Tailwind-CSS.svg" width="40" height="40" alt="Tailwind" style="margin: 5px;" />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nextjs,react,astro,tailwind" />
+      </a>
     </td>
     <td align="center">
-      <img src="assets/Tech-SVG/Node.js.svg" width="40" height="40" alt="Node.js" style="margin: 5px;" />
-      <img src="assets/Tech-SVG/Express.svg" width="40" height="40" alt="Express" style="margin: 5px;" />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=express,nestjs,fastapi" />
+      </a>
     </td>
     <td align="center">
-      <img src="assets/Tech-SVG/MongoDB.svg" width="40" height="40" alt="MongoDB" style="margin: 5px;" />
-      <img src="assets/Tech-SVG/MySQL.svg" width="40" height="40" alt="MySQL" style="margin: 5px;" />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+      </a>
     </td>
   </tr>
   <tr>
     <th align="center">Cloud Platforms</th>
-    <th align="center">DevOps & CI/CD</th>
-    <th align="center">Android & Desktop</th>
-    <th align="center">Development Tools</th>
+    <th align="center">DevOps</th>
+    <th align="center">Mobile & Desktop</th>
+    <th align="center">Tools</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/Tech-SVG/Vercel.svg" width="40" height="40" alt="Vercel" style="margin: 5px;" />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=aws" />
+      </a>
     </td>
     <td align="center">
-      <img src="assets/Tech-SVG/Git.svg" width="40" height="40" alt="Git" style="margin: 5px;" />
-      <img src="assets/Tech-SVG/Linux.svg" width="40" height="40" alt="Linux" style="margin: 5px;" />
-      <br/>
-      <img src="assets/Tech-SVG/Docker.svg" width="40" height="40" alt="Docker" style="margin: 5px;" />
-      <img src="assets/Tech-SVG/Kubernetes.svg" width="40" height="40" alt="Kubernetes" style="margin: 5px;" />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker,githubactions" />
+      </a>
     </td>
     <td align="center">
-      <img src="assets/Tech-SVG/Android.svg" width="40" height="40" alt="Android" style="margin: 5px;" />
-      <img src="assets/Tech-SVG/Flutter.svg" width="40" height="40" alt="Flutter" style="margin: 5px;" />
-      <br/>
-      <img src="assets/Tech-SVG/Electron.svg" width="40" height="40" alt="Electron" style="margin: 5px;" />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,tauri,electron" />
+      </a>
     </td>
     <td align="center">
-      <img src="assets/Tech-SVG/Visual-Studio-Code-(VS-Code).svg" width="40" height="40" alt="VS Code" style="margin: 5px;" />
-      <img src="assets/Tech-SVG/Postman.svg" width="40" height="40" alt="Postman" style="margin: 5px;" />
-      <br/>
-      <img src="assets/Tech-SVG/Arduino.svg" width="40" height="40" alt="Arduino" style="margin: 5px;" />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,vscode,postman" />
+      </a>
     </td>
   </tr>
 </table>
