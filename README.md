@@ -51,72 +51,67 @@
 
 <hr>
 
-## Table of Tech
+<h3 align="center">Technologies</h3>
 
-<table align="center" style="width: 100%; min-width: 600px; border-spacing: 15px;">
+<table align="center">
   <tr>
-    <td style="width: 30%; vertical-align: top; padding: 10px;">
-      <strong>Frontend</strong>
+    <th align="center">Languages</th>
+    <th align="center">Frontend</th>
+    <th align="center">Backend</th>
+    <th align="center">Databases</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/Tech-SVG/Python.svg" width="40" height="40" alt="Python" style="margin: 5px;" />
+      <img src="assets/Tech-SVG/Java.svg" width="40" height="40" alt="Java" style="margin: 5px;" />
+      <img src="assets/Tech-SVG/C++-(CPlusPlus).svg" width="40" height="40" alt="C++" style="margin: 5px;" />
+      <br/>
+      <img src="assets/Tech-SVG/TypeScript.svg" width="40" height="40" alt="TypeScript" style="margin: 5px;" />
+      <img src="assets/Tech-SVG/JavaScript.svg" width="40" height="40" alt="JavaScript" style="margin: 5px;" />
     </td>
-    <td style="width: 70%; vertical-align: top; padding: 10px;">
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass" />
+    <td align="center">
+      <img src="assets/Tech-SVG/React.svg" width="40" height="40" alt="React" style="margin: 5px;" />
+      <img src="assets/Tech-SVG/Next.js.svg" width="40" height="40" alt="Next.js" style="margin: 5px;" />
+      <br/>
+      <img src="assets/Tech-SVG/Tailwind-CSS.svg" width="40" height="40" alt="Tailwind" style="margin: 5px;" />
+    </td>
+    <td align="center">
+      <img src="assets/Tech-SVG/Node.js.svg" width="40" height="40" alt="Node.js" style="margin: 5px;" />
+      <img src="assets/Tech-SVG/Express.svg" width="40" height="40" alt="Express" style="margin: 5px;" />
+    </td>
+    <td align="center">
+      <img src="assets/Tech-SVG/MongoDB.svg" width="40" height="40" alt="MongoDB" style="margin: 5px;" />
+      <img src="assets/Tech-SVG/MySQL.svg" width="40" height="40" alt="MySQL" style="margin: 5px;" />
     </td>
   </tr>
   <tr>
-    <td style="width: 30%; vertical-align: top; padding: 10px;">
-      <strong>Backend</strong>
-    </td>
-    <td style="width: 70%; vertical-align: top; padding: 10px;">
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-      <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens" alt="JWT" />
-    </td>
+    <th align="center">Cloud Platforms</th>
+    <th align="center">DevOps & CI/CD</th>
+    <th align="center">Android & Desktop</th>
+    <th align="center">Development Tools</th>
   </tr>
   <tr>
-    <td style="width: 30%; vertical-align: top; padding: 10px;">
-      <strong>Databases</strong>
+    <td align="center">
+      <img src="assets/Tech-SVG/Vercel.svg" width="40" height="40" alt="Vercel" style="margin: 5px;" />
     </td>
-    <td style="width: 70%; vertical-align: top; padding: 10px;">
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
+    <td align="center">
+      <img src="assets/Tech-SVG/Git.svg" width="40" height="40" alt="Git" style="margin: 5px;" />
+      <img src="assets/Tech-SVG/Linux.svg" width="40" height="40" alt="Linux" style="margin: 5px;" />
+      <br/>
+      <img src="assets/Tech-SVG/Docker.svg" width="40" height="40" alt="Docker" style="margin: 5px;" />
+      <img src="assets/Tech-SVG/Kubernetes.svg" width="40" height="40" alt="Kubernetes" style="margin: 5px;" />
     </td>
-  </tr>
-  <tr>
-    <td style="width: 30%; vertical-align: top; padding: 10px;">
-      <strong>Languages</strong>
+    <td align="center">
+      <img src="assets/Tech-SVG/Android.svg" width="40" height="40" alt="Android" style="margin: 5px;" />
+      <img src="assets/Tech-SVG/Flutter.svg" width="40" height="40" alt="Flutter" style="margin: 5px;" />
+      <br/>
+      <img src="assets/Tech-SVG/Electron.svg" width="40" height="40" alt="Electron" style="margin: 5px;" />
     </td>
-    <td style="width: 70%; vertical-align: top; padding: 10px;">
-      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 30%; vertical-align: top; padding: 10px;">
-      <strong>DevOps</strong>
-    </td>
-    <td style="width: 70%; vertical-align: top; padding: 10px;">
-      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
-      <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white" alt="Render" />
-      <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 30%; vertical-align: top; padding: 10px;">
-      <strong>Tools</strong>
-    </td>
-    <td style="width: 70%; vertical-align: top; padding: 10px;">
-      <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Bash Script" />
-      <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+    <td align="center">
+      <img src="assets/Tech-SVG/Visual-Studio-Code-(VS-Code).svg" width="40" height="40" alt="VS Code" style="margin: 5px;" />
+      <img src="assets/Tech-SVG/Postman.svg" width="40" height="40" alt="Postman" style="margin: 5px;" />
+      <br/>
+      <img src="assets/Tech-SVG/Arduino.svg" width="40" height="40" alt="Arduino" style="margin: 5px;" />
     </td>
   </tr>
 </table>
@@ -124,15 +119,12 @@
 ---
 
 
-## Stats of Obsession 
+## Stats
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7sg56&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7sg56&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7sg56&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=7sg56&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=7sg56&theme=aura&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7sg56&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=7sg56&theme=github_dark)
 
 </div>
 
