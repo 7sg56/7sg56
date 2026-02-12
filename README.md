@@ -8,46 +8,18 @@
   />
 </div>
 
-<table align="center" style="width: 100%; min-width: 600px; border: none; border-collapse: collapse;">
-  <tr>
-    <td>
-      <h3 align="center">
-        Passionate <strong>Software Engineer</strong> and <strong>Web Developer</strong>
-        <br>
-        <em>Creating the unimaginable</em>
-        <br>
-        <hr>
-      </h3>
-      <h4>About</h4>
-      <ul style="list-style: none; padding-left: 0;">
-        <li>🔭 Currently working on <strong><a href="https://github.com/7sg56/DawnMark">DawnMark</a></strong> - A powerful markdown editor</li>
-        <li>🌱 Exploring <strong>p5js</strong> for creating art on the web</li>
-        <li>👨‍💻 Building full-stack applications with <strong>MERN Stack</strong></li>
-        <li>🚀 Deploying applications on <strong>Vercel</strong>, <strong>Netlify</strong>, and <strong>Render</strong></li>
-      </ul>
-      <h4>Contact</h4>
-      <ul style="list-style: none; padding-left: 0;">
-        <li>📫 <strong>Email</strong>: sghosh.ile.7@gmail.com</li>
-        <li>🌐 <strong>Portfolio</strong>: <a href="https://sourish-ghosh.vercel.app">sourish-ghosh.vercel.app</a></li>
-        <li>💡 <strong>Ask me about</strong>: Web Development, MERN Stack, or anything tech!</li>
-      </ul>
-      <h4>Hobbies</h4>
-      <ul style="list-style: none; padding-left: 0;">
-        <li>🐱 Cats are my weak spot - I absolutely love them!</li>
-        <li>🎮 Soulsborne Fan - I have plat on ds3 & elden ring</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 
-<div align="center" style="padding: 30px">
+<div align="center">
 
-![Sourish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=7sg56&theme=github-compact&hide_border=true)
+*Full-stack developer who ships things*
 
-</div>
+<p align="center"> 
+  <img src="https://profile-counter.deno.dev/7sg56/count.svg"/>
+</p>
 
-<hr>
+---
+
 
 <h3 align="left">Table of Tech</h3>
 
@@ -61,12 +33,12 @@
   <tr>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cpp,python,ts,rust" />
+        <img src="https://skillicons.dev/icons?i=cpp,python,rust,ts" />
       </a>
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nextjs,react,astro,tailwind" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind" />
       </a>
     </td>
     <td align="center">
@@ -76,15 +48,15 @@
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+        <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" />
       </a>
     </td>
   </tr>
   <tr>
-    <th align="center">Cloud Platforms</th>
+    <th align="center">Cloud</th>
     <th align="center">DevOps</th>
     <th align="center">Mobile & Desktop</th>
-    <th align="center">Tools</th>
+    <th align="center">IoT/Hardware</th>
   </tr>
   <tr>
     <td align="center">
@@ -99,12 +71,40 @@
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,tauri,electron" />
+        <img src="https://skillicons.dev/icons?i=react,electron,tauri" />
       </a>
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,vscode,postman" />
+        <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th align="center">Package Managers</th>
+    <th align="center">Editors & Shell</th>
+    <th align="center">Version Control</th>
+    <th align="center">Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=npm,bun" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vim,bash,linux" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
       </a>
     </td>
   </tr>
@@ -113,25 +113,24 @@
 ---
 
 
-## Stats
+<h3 align="left">Stats of Obsession </h3>
 
 <div align="center">
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7sg56&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7sg56&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7sg56&theme=github_dark)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=7sg56&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=7sg56&theme=github_dark)
 
 </div>
 
 <hr>
 
+<h3 align="left">HacktoberFest 2025</h3>
 
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=7sg56&theme=onedark&column=-1)
-
-</div>
-
-<hr>
 
 <div align="center">
 
